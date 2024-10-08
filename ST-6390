@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[.Мои точки с mave.]]></title>
+        <description><![CDATA[.точки..]]></description>
+        <link>https://123sss.mave.digital</link>
+        <image>
+            <url>https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/images/15f2bf74-e408-4a30-acd5-7cc50fa9d3d5.png</url>
+            <title>.Мои точки с mave.</title>
+            <link>https://123sss.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Fri, 04 Oct 2024 09:42:40 GMT</lastBuildDate>
+        <pubDate>Fri, 04 Oct 2024 08:58:42 GMT</pubDate>
+        <copyright><![CDATA[2024 © .автор подкаста.. Все права защищены.]]></copyright>
+        <language><![CDATA[en]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>.автор подкаста.</itunes:author>
+        <itunes:summary>.точки..</itunes:summary>
+        <itunes:owner>
+            <itunes:name>.автор подкаста.</itunes:name>
+            <itunes:email>usertesttestuser516@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/images/15f2bf74-e408-4a30-acd5-7cc50fa9d3d5.png"/>
+        <itunes:category text="History">
+        </itunes:category>
+        <item>
+            <title><![CDATA[.а.т.е.с.т.]]></title>
+            <description><![CDATA[.а.т.е.с.т.]]></description>
+            <link>https://123sss.mave.digital/ep-3</link>
+            <guid isPermaLink="false">022c71bf-b746-44d0-9fd5-744d720c9d45</guid>
+            <pubDate>Fri, 04 Oct 2024 08:58:42 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/episodes/fd15d069-2ae8-4e58-9c53-b24d00d3399d.mp3" length="1077549" type="audio/mpeg"/>
+            <itunes:title>.а.т.е.с.т.</itunes:title>
+            <itunes:summary>.а.т.е.с.т.</itunes:summary>
+            <content:encoded>.а.т.е.с.т.</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>33</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/images/15f2bf74-e408-4a30-acd5-7cc50fa9d3d5.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[...эй...]]></title>
+            <description><![CDATA[...эй...]]></description>
+            <link>https://123sss.mave.digital/ep-2</link>
+            <guid isPermaLink="false">992aeb9a-e820-4208-acb4-451ca4ec73ee</guid>
+            <pubDate>Fri, 04 Oct 2024 08:57:46 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/episodes/f0805004-f230-4856-8c0b-071e41d7f062.mp3" length="1077549" type="audio/mpeg"/>
+            <itunes:title>...эй...</itunes:title>
+            <itunes:summary>...эй...</itunes:summary>
+            <content:encoded>...эй...</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>33</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/images/15f2bf74-e408-4a30-acd5-7cc50fa9d3d5.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[тест....1]]></title>
+            <description><![CDATA[тест....1]]></description>
+            <link>https://123sss.mave.digital/ep-1</link>
+            <guid isPermaLink="false">9d661503-8093-4f96-bab3-efeeccd96aa1</guid>
+            <pubDate>Fri, 04 Oct 2024 08:55:42 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/episodes/0d25e39d-ebdc-4b42-8421-a0e3b7750ee4.mp3" length="539185" type="audio/mpeg"/>
+            <itunes:title>тест....1</itunes:title>
+            <itunes:summary>тест....1</itunes:summary>
+            <content:encoded>тест....1</content:encoded>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>33</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/baa1247b-e1fd-4b9d-9af9-99da2cd37880/images/15f2bf74-e408-4a30-acd5-7cc50fa9d3d5.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
