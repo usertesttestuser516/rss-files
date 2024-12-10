@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Главы]]></title>
+        <description><![CDATA[Главы]]></description>
+        <link>https://zxzxzxddddd.mave.digital</link>
+        <image>
+            <url>https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png</url>
+            <title>Главы</title>
+            <link>https://zxzxzxddddd.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Mon, 09 Dec 2024 10:51:16 GMT</lastBuildDate>
+        <pubDate>Mon, 09 Dec 2024 10:51:15 GMT</pubDate>
+        <copyright><![CDATA[2024 © Злата. Все права защищены.]]></copyright>
+        <language><![CDATA[en]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>Злата</itunes:author>
+        <itunes:summary>Главы</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Злата</itunes:name>
+            <itunes:email>usertesttestuser516@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png"/>
+        <itunes:category text="History">
+        </itunes:category>
+        <item>
+            <title><![CDATA[по 10 сек главы]]></title>
+            <link>https://zxzxzxddddd.mave.digital/ep-4</link>
+            <guid isPermaLink="false">b05acc16-c4aa-4605-b60c-f3bbf441dae4</guid>
+            <pubDate>Mon, 09 Dec 2024 10:51:15 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/episodes/af7dea4b-f868-451c-8d97-beb4a896535a.mp3" length="300025" type="audio/mpeg"/>
+            <itunes:title>по 10 сек главы</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>21</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[201 символ]]></title>
+            <link>https://zxzxzxddddd.mave.digital/ep-3</link>
+            <guid isPermaLink="false">c5702e72-e296-4f0e-8466-dacbe6969733</guid>
+            <pubDate>Mon, 09 Dec 2024 10:50:24 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/episodes/fb523b31-55eb-4579-84e6-5dd4424397a0.mp3" length="3037788" type="audio/mpeg"/>
+            <itunes:title>201 символ</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>216</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[18 глав]]></title>
+            <link>https://zxzxzxddddd.mave.digital/ep-2</link>
+            <guid isPermaLink="false">61ba0e39-29cc-452b-85bc-edb7e39d23be</guid>
+            <pubDate>Mon, 09 Dec 2024 10:49:47 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/episodes/39f70342-a354-442b-bf86-9fb93ced2f04.mp3" length="3473866" type="audio/mpeg"/>
+            <itunes:title>18 глав</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>216</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[200 символов]]></title>
+            <link>https://zxzxzxddddd.mave.digital/ep-1</link>
+            <guid isPermaLink="false">c5aa54f3-87fa-4687-8e29-9424fad2dad5</guid>
+            <pubDate>Mon, 09 Dec 2024 10:46:57 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/episodes/e97d52f7-1996-496d-bdba-1baa86b1ab34.mp3" length="3037776" type="audio/mpeg"/>
+            <itunes:title>200 символов</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>216</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/8ca7a7f4-1628-419d-a377-92ba96843a4e/images/e82f6f9c-0c14-418d-9e86-26ef8dde2eed.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
