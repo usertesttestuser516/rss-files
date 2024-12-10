@@ -1,0 +1,70 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>
+<![CDATA[ Главы ]]>
+</title>
+<image>
+<url>https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/poster.png?etag=55674a483762e73f93903637e3b978e0</url>
+<title>Главы</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ssssdccfedsed ]]>
+</link>
+</image>
+<link>https://st.zvuk.com/ssssdccfedsed</link>
+<description>
+<![CDATA[ <p>Главы</p> ]]>
+</description>
+<lastBuildDate>Mon, 09 Dec 2024 12:42:24 UTC</lastBuildDate>
+<author>Злата</author>
+<copyright>
+<![CDATA[ Copyright © 2024 Злата. Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>en</language>
+<itunes:author>Злата</itunes:author>
+<itunes:category text="History"/>
+<itunes:summary>
+<![CDATA[ <p>Главы</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>False</itunes:explicit>
+<itunes:image href="https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/poster.png?etag=55674a483762e73f93903637e3b978e0"/>
+<itunes:owner>
+<itunes:name>Злата</itunes:name>
+<itunes:email>usertesttestuser516@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>
+<![CDATA[ 18 глав ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ssssdccfedsed/13cb52e4-64e2-49c3-a002-75849210b83e ]]>
+</link>
+<pubDate>Mon, 09 Dec 2024 10:49:47 UTC</pubDate>
+<guid isPermaLink="false">13cb52e4-64e2-49c3-a002-75849210b83e</guid>
+<enclosure length="3473866" type="audio/mp3" url="https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/13cb52e4-64e2-49c3-a002-75849210b83e.mp3?etag=6c264bceaf8cf6f6fee7b3d54383aefb"/>
+<itunes:image href="https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/poster.png?etag=55674a483762e73f93903637e3b978e0"/>
+<itunes:duration>03:36</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>False</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ 200 символов ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/ssssdccfedsed/7ab425a1-60b1-4a31-a516-9ab402b773ff ]]>
+</link>
+<pubDate>Mon, 09 Dec 2024 10:46:57 UTC</pubDate>
+<guid isPermaLink="false">7ab425a1-60b1-4a31-a516-9ab402b773ff</guid>
+<enclosure length="3468145" type="audio/mp3" url="https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/7ab425a1-60b1-4a31-a516-9ab402b773ff.mp3?etag=ee6a8fc8f866fbc8427e63ac3bac7cea"/>
+<itunes:image href="https://st.zvuk.com/r/6089b1b9-cd33-44c6-8c89-346ca2c7fe3b/poster.png?etag=55674a483762e73f93903637e3b978e0"/>
+<itunes:duration>03:36</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>False</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>
