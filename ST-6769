@@ -1,0 +1,72 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>
+<![CDATA[ wav mp3 m4a ]]>
+</title>
+<image>
+<url>https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/poster.jpeg?etag=4a094a7a77ba142fc265e5a4ffb0a976</url>
+<title>wav mp3 m4a</title>
+<link>
+<![CDATA[ https://st.zvuk.com/xxdfghhghh ]]>
+</link>
+</image>
+<link>https://st.zvuk.com/xxdfghhghh</link>
+<description>
+<![CDATA[ <p>fdfvgdfv</p> ]]>
+</description>
+<lastBuildDate>Mon, 16 Dec 2024 09:42:45 UTC</lastBuildDate>
+<author>ТТ</author>
+<copyright>
+<![CDATA[ Copyright © 2024 ТТ. Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>ТТ</itunes:author>
+<itunes:category text="Music">
+<itunes:category text="Music History"/>
+</itunes:category>
+<itunes:summary>
+<![CDATA[ <p>fdfvgdfv</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>True</itunes:explicit>
+<itunes:image href="https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/poster.jpeg?etag=4a094a7a77ba142fc265e5a4ffb0a976"/>
+<itunes:owner>
+<itunes:name>ТТ</itunes:name>
+<itunes:email>usertesttestuser516@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>
+<![CDATA[ m4a ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/xxdfghhghh/85cbe445-ee41-4d38-b1d1-2b451662a5fb ]]>
+</link>
+<pubDate>Fri, 20 Jan 2023 12:52:23 UTC</pubDate>
+<guid isPermaLink="false">85cbe445-ee41-4d38-b1d1-2b451662a5fb</guid>
+<enclosure length="2221706" type="audio/mp3" url="https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/85cbe445-ee41-4d38-b1d1-2b451662a5fb.mp3?etag=41ee689f7a6e2351d342a42d39d59c46"/>
+<itunes:image href="https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/poster.jpeg?etag=4a094a7a77ba142fc265e5a4ffb0a976"/>
+<itunes:duration>02:18</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>False</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+<item>
+<title>
+<![CDATA[ mp3 ]]>
+</title>
+<link>
+<![CDATA[ https://st.zvuk.com/xxdfghhghh/500d08bf-4495-4309-8a44-2a5cae8349de ]]>
+</link>
+<pubDate>Fri, 20 Jan 2023 12:50:29 UTC</pubDate>
+<guid isPermaLink="false">500d08bf-4495-4309-8a44-2a5cae8349de</guid>
+<enclosure length="3468060" type="audio/mp3" url="https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/500d08bf-4495-4309-8a44-2a5cae8349de.mp3?etag=c97b5be092e0de5ba9e735cff5676b4d"/>
+<itunes:image href="https://st.zvuk.com/r/5fce9576-ccdc-4695-bf97-d706b9f956b1/poster.jpeg?etag=4a094a7a77ba142fc265e5a4ffb0a976"/>
+<itunes:duration>03:36</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>False</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>
