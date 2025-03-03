@@ -1,0 +1,56 @@
+<rss xmlns:psc="http://podlove.org/simple-chapters/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>
+<![CDATA[ Qwerty ]]>
+</title>
+<image>
+<url>http://localhost:8081/assets/d6d9f5db-bc60-49e2-b5c8-9a0154f38d25/poster.jpeg?etag=156a88fcb9db774cbd9e605063bf4ab9</url>
+<title>Qwerty</title>
+<link>
+<![CDATA[ http://localhost:8079/qwerty333 ]]>
+</link>
+</image>
+<link>http://localhost:8079/qwerty333</link>
+<description>
+<![CDATA[ <p>qweqweqe</p> ]]>
+</description>
+<lastBuildDate>пт, 28 февр. 2025 10:33:26 UTC</lastBuildDate>
+<author>Qwerty</author>
+<copyright>
+<![CDATA[ Copyright © 2025 Qwerty. Все права защищены. ]]>
+</copyright>
+<generator>st.zvuk.com</generator>
+<language>ru</language>
+<itunes:author>Qwerty</itunes:author>
+<itunes:category text="Business">
+<itunes:category text="Marketing"/>
+</itunes:category>
+<itunes:summary>
+<![CDATA[ <p>qweqweqe</p> ]]>
+</itunes:summary>
+<itunes:block>no</itunes:block>
+<itunes:explicit>False</itunes:explicit>
+<itunes:image href="http://localhost:8081/assets/d6d9f5db-bc60-49e2-b5c8-9a0154f38d25/poster.jpeg?etag=156a88fcb9db774cbd9e605063bf4ab9"/>
+<itunes:owner>
+<itunes:name>Qwerty</itunes:name>
+<itunes:email>usertesttestuser516@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>
+<![CDATA[ Опубликованный 6 ]]>
+</title>
+<link>
+<![CDATA[ http://localhost:8079/qwerty333/aed02aa3-0812-4058-b27b-e3371c80845d ]]>
+</link>
+<pubDate>Thu, 27 Feb 2025 10:33:22 GMT</pubDate>
+<guid isPermaLink="false">aed02aa3-0812-4058-b27b-e3371c80845d</guid>
+<enclosure length="65960" type="audio/mp3" url="http://localhost:8081/assets/d6d9f5db-bc60-49e2-b5c8-9a0154f38d25/aed02aa3-0812-4058-b27b-e3371c80845d.mp3?etag=4d2af4deebe802acf1e2946c013ec80a"/>
+<itunes:image href="http://localhost:8081/assets/d6d9f5db-bc60-49e2-b5c8-9a0154f38d25/poster.jpeg?etag=156a88fcb9db774cbd9e605063bf4ab9"/>
+<itunes:duration>00:04</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>False</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+</channel>
+</rss>
