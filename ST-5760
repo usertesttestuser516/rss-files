@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[wav mp3 m4a]]></title>
+        <description><![CDATA[<p>test</p>]]></description>
+        <link>https://jdjj2jxjs.mave.digital</link>
+        <image>
+            <url>https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png</url>
+            <title>wav mp3 m4a</title>
+            <link>https://jdjj2jxjs.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Thu, 14 Nov 2024 12:55:54 GMT</lastBuildDate>
+        <pubDate>Mon, 20 Feb 2023 07:49:00 GMT</pubDate>
+        <copyright><![CDATA[2024 © Злата. Все права защищены.]]></copyright>
+        <language><![CDATA[ru]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:author>Злата</itunes:author>
+        <itunes:summary>test</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Злата</itunes:name>
+            <itunes:email>usertesttestuser516@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png"/>
+        <itunes:category text="Fiction">
+            <itunes:category text="Comedy Fiction"/>
+        </itunes:category>
+        <itunes:category text="Arts">
+            <itunes:category text="Visual Arts"/>
+        </itunes:category>
+        <itunes:category text="Health &amp; Fitness">
+            <itunes:category text="Alternative Health"/>
+        </itunes:category>
+        <item>
+            <title><![CDATA[test]]></title>
+            <link>https://jdjj2jxjs.mave.digital/ep-4</link>
+            <guid isPermaLink="false">a4b30f53-68c3-4b62-aceb-558c393b3647</guid>
+            <pubDate>Mon, 20 Feb 2023 07:49:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/episodes/fd4d1def-2944-4b9d-89e5-417a55431f3c.mp3" length="1088" type="audio/mpeg"/>
+            <itunes:title>test</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>0</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[m4a]]></title>
+            <link>https://jdjj2jxjs.mave.digital/ep-3</link>
+            <guid isPermaLink="false">4b80114e-3304-4383-aea4-4302e84d2a42</guid>
+            <pubDate>Fri, 20 Jan 2023 13:07:02 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/episodes/aea2d95b-3593-4347-90d2-49dcd6b0e888.mp3" length="40773520" type="audio/mpeg"/>
+            <itunes:title>m4a</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>2548</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[wav]]></title>
+            <link>https://jdjj2jxjs.mave.digital/ep-2</link>
+            <guid isPermaLink="false">0aa2ac9e-c7d7-408e-9792-01a88098b037</guid>
+            <pubDate>Fri, 20 Jan 2023 13:04:13 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/episodes/526c4369-354d-4fef-be65-5738d9234e0f.mp3" length="2221706" type="audio/mpeg"/>
+            <itunes:title>wav</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>138</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title><![CDATA[mp3]]></title>
+            <link>https://jdjj2jxjs.mave.digital/ep-1</link>
+            <guid isPermaLink="false">b69f3271-38fd-4ffa-ad1c-10f9748ced5c</guid>
+            <pubDate>Fri, 20 Jan 2023 13:03:10 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/episodes/d9c28f84-77f1-4c99-aeb0-801e9be56fee.mp3" length="39563851" type="audio/mpeg"/>
+            <itunes:title>mp3</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>2472</itunes:duration>
+            <itunes:image href="https://ru-msk-dr3-1.store.cloud.mts.ru/mave/storage/podcasts/42e0eee5-b558-46c0-b00e-e380df2f7a9d/images/1f3a1fa8-bbc7-4da2-b3ac-beece551516a.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
